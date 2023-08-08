@@ -57,13 +57,16 @@ export default function Weather() {
       <br />
       <p>
         This project was coded by Princess Alao and is
-        <a href="https://github.com/Priala/My-weather-project" target="_blank">
+        <a href="https://github.com/Priala/My-weather-project" target="_blank" 
+           rel="noopener noreferrer
+        >
           Open source code
         </a>
         on Github and hosted on
         <a
           href="https://main--fastidious-creponne-b064c2.netlify.app/"
           target="_blank"
+          rel="noopener noreferrer"
         >
           Netlify
         </a>
